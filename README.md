@@ -1,14 +1,44 @@
-# About
+## About
 
 <div>
     <p>Hobbyist.</p>
 </div>
 
-### Stats
+## Projects
+
+### Laravel (deployed)
+
+<ul>
+    <li>
+        <a href='https://chronocol.xyz/login' target="_blank">Billit</a>
+        <p>Time recording tool.</p>
+    </li>
+    <li>
+        <a href='https://larda.xyz/login' target="_blank">Larder</a>
+        <p>Calory counting tool.</p>
+    </li>
+</ul>
+
+### Github Pages
+
+<ul>
+    <li>
+        <a href='https://crhisgbibon.github.io/gameoflife/' target="_blank">Game of Life</a>
+        <p>Javascript implementation of John Conway's Game of Life on a looping grid.</p>
+    </li>
+    <li>
+        <a href='https://crhisgbibon.github.io/mazemaker/' target="_blank">Maze Maker</a>
+        <p>Maze generating and pathfinding algorithm in javascript.</p>
+    </li>
+</ul>
+
+## Stats
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&theme=dark&langs_count=10&count_private=true" />
 </div>
+
+## Tech
 
 ### Frontend
 
@@ -83,19 +113,3 @@
     <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
     <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
 </div>
-
-# Projects
-
-### Laravel (deployed)
-
-<ol>
-    <li><a href='https://chronocol.xyz/login' target="_blank">Billit</a></li>
-    <li><a href='https://larda.xyz/login' target="_blank">Larder</a></li>
-</ol>
-
-### Github Pages
-
-<ol>
-    <li><a href='https://crhisgbibon.github.io/gameoflife/' target="_blank">Game of Life</a></li>
-    <li><a href='https://crhisgbibon.github.io/mazemaker/' target="_blank">Maze Maker</a></li>
-</ol>
