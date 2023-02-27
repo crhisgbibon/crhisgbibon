@@ -6,7 +6,7 @@
 
 ## Projects
 
-### Live
+### Deployed
 
 <ul>
     <li>
