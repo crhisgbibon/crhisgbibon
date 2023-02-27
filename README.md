@@ -6,7 +6,7 @@
 
 ## Projects
 
-### Laravel (deployed)
+### Deployed
 
 <ul>
     <li>
