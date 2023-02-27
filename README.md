@@ -1,8 +1,28 @@
-### Languages
+<div style='display:flex; width:100%; justifyContent:between; alignItems: center;'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crhisgbibon&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&theme=dark&langs_count=10&count_private=true" />
+  </a>
+</div>
 
-HTML, CSS, Javascript
+### Skills
 
-PHP, SQL
+HTML, CSS
+
+Javascript, PHP, C#
+
+SQL, SQLite, NoSQL
+
+Linux
+
+## Frameworks, Libraries
+
+Laravel
+TailwindCSS
+Express/
+MongoDB
 
 ### Laravel projects
 
