@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Github pages
+
+<ul>
+<a href='https://crhisgbibon.github.io/mazemaker/'>Maze Maker</a>
+<a href='https://crhisgbibon.github.io/gameoflife/'>Game of Life</a>
+</ul>
+
 <!--
 **crhisgbibon/crhisgbibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
