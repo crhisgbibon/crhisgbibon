@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### Github pages
 
 <ul>
-<a href='https://crhisgbibon.github.io/mazemaker/'>Maze Maker</a>
-<a href='https://crhisgbibon.github.io/gameoflife/'>Game of Life</a>
+  <li><a href='https://crhisgbibon.github.io/mazemaker/'>Maze Maker</a></li>
+  <li><a href='https://crhisgbibon.github.io/gameoflife/'>Game of Life</a></li>
 </ul>
 
 <!--
