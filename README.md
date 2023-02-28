@@ -1,36 +1,8 @@
 ## About
 
 <div>
-    <p>Hobbyist.</p>
+    <p>Hobbyist web developer.</p>
 </div>
-
-## Projects
-
-### Deployed
-
-<ul>
-    <li>
-        <a href='https://chronocol.xyz/login' target="_blank">Billit</a>
-        <p>Time recording tool.</p>
-    </li>
-    <li>
-        <a href='https://larda.xyz/login' target="_blank">Larder</a>
-        <p>Calory counting tool.</p>
-    </li>
-</ul>
-
-### Github Pages
-
-<ul>
-    <li>
-        <a href='https://crhisgbibon.github.io/gameoflife/' target="_blank">Game of Life</a>
-        <p>Javascript implementation of John Conway's Game of Life on a looping grid.</p>
-    </li>
-    <li>
-        <a href='https://crhisgbibon.github.io/mazemaker/' target="_blank">Maze Maker</a>
-        <p>Maze generating and pathfinding algorithm in javascript.</p>
-    </li>
-</ul>
 
 ## Stats
 
