@@ -4,14 +4,6 @@
     <p>Hobbyist web developer.</p>
 </div>
 
-## Stats
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&theme=dark&langs_count=10&count_private=true" />
-</div>
-
-## Tech
-
 ### Frontend
 
 <div>
@@ -27,8 +19,6 @@
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
         <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
         <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-        <img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'>
-        <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'>
     </div>
 </div>
 
