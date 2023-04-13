@@ -32,8 +32,7 @@
     <div>
         <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-        <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
-        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+        <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
     </div>
     <div>
         <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
