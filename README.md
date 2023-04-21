@@ -1,4 +1,4 @@
-## About
+# About
 
 <div>
     <p>Hobbyist web developer.</p>
@@ -38,7 +38,7 @@
 
 <a href='https://proind.wiki'>Proind Wiki</a>
 
-## Tech
+# Tech
 
 ### Frontend
 
