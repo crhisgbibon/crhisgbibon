@@ -12,23 +12,11 @@
 
 ### Github Pages
 
-<a href='https://crhisgbibon.github.io/boids/'>Boids</a>
-
-<a href='https://crhisgbibon.github.io/gameoflife/'>Game of Life</a>
-
-<a href='https://crhisgbibon.github.io/mazemaker/'>Maze Maker</a>
-
-<a href='https://crhisgbibon.github.io/orbitals/'>Orbitals</a>
-
-<a href='https://crhisgbibon.github.io/wordwheel/'>Word Wheel</a>
+<a href='https://crhisgbibon.github.io/boids/'>Boids</a> , <a href='https://crhisgbibon.github.io/gameoflife/'>Game of Life</a> , <a href='https://crhisgbibon.github.io/mazemaker/'>Maze Maker</a> , <a href='https://crhisgbibon.github.io/orbitals/'>Orbitals</a> , <a href='https://crhisgbibon.github.io/wordwheel/'>Word Wheel</a>
 
 ### Laravel
 
-<a href='https://chronocol.xyz'>Chronocol</a>
-
-<a href='https://fcards.xyz'>FCards</a>
-
-<a href='https://larda.xyz'>Larda</a>
+<a href='https://chronocol.xyz'>Chronocol</a> , <a href='https://fcards.xyz'>FCards</a> , <a href='https://larda.xyz'>Larda</a>
 
 ### PHP
 
@@ -36,9 +24,7 @@
 
 ### Static
 
-<a href='https://phpstack-947565-3463945.cloudwaysapps.com/index.html'>Jumbler</a>
-
-<a href='https://phpstack-947565-3463891.cloudwaysapps.com/'>XO</a>
+<a href='https://phpstack-947565-3463945.cloudwaysapps.com/index.html'>Jumbler</a> , <a href='https://phpstack-947565-3463891.cloudwaysapps.com/'>XO</a>
 
 ### Wiki
 
