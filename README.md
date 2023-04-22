@@ -36,7 +36,7 @@
 
 ### Wiki
 
-<a href='https://proind.wiki'>Proind Wiki</a>
+<a href='https://proind.wiki'>Proind</a>
 
 # Tech
 
