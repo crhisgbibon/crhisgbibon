@@ -4,7 +4,7 @@
     <p>Hobbyist web developer.</p>
 </div>
 
-# Live
+# Projects
 
 ### Express
 
