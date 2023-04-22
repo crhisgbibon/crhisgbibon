@@ -34,6 +34,8 @@
 
 <a href='https://chress.xyz'>Chress</a>
 
+<a href='https://phpstack-947565-3463891.cloudwaysapps.com/'>XO</a>
+
 ### Wiki
 
 <a href='https://proind.wiki'>Proind</a>
