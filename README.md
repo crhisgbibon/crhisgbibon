@@ -16,7 +16,7 @@
 
 ### Laravel
 
-<a href='https://chronocol.xyz'>Chronocol</a> , <a href='https://fcards.xyz'>FCards</a> , <a href='https://larda.xyz'>Larda</a>
+<a href='https://chronocol.xyz'>Chronocol</a> , <a href='https://fcards.xyz'>FCards</a> , <a href='https://larda.xyz'>Larda</a> , <a href='https://phplaravel-987278-3464561.cloudwaysapps.com/'>RSS Reader</a>
 
 ### PHP
 
