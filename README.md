@@ -36,7 +36,7 @@
 
 ### Static
 
-<a href='https://phpstack-947565-3463945.cloudwaysapps.com/'>Jumbler</a>
+<a href='https://phpstack-947565-3463945.cloudwaysapps.com/index.html'>Jumbler</a>
 
 <a href='https://phpstack-947565-3463891.cloudwaysapps.com/'>XO</a>
 
