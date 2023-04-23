@@ -30,6 +30,10 @@
 
 <a href='https://proind.wiki'>Proind</a>
 
+# Stats
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&langs_count=5&theme=tokyonight)]()
+
 # Tech
 
 ### Frontend
