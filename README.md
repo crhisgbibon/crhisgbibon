@@ -32,7 +32,7 @@
 
 # Stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&langs_count=5&theme=tokyonight&langs_count=100)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech
 
