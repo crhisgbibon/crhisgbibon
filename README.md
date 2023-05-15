@@ -34,13 +34,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisgbibon&langs_count=10&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crhisgbibon&theme=transparent)](https://git.io/streak-stats)
+
 # Tech
 
 ### Languages
 
-#### HTML
-
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
     <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
