@@ -10,7 +10,7 @@
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crhisgbibon&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crhisgbibon&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 
 ## Projects
 
