@@ -31,7 +31,3 @@
 ### Symfony
 
 <a href='https://phpstack-947565-3485423.cloudwaysapps.com'>Library</a>
-
-### Wiki
-
-<a href='https://proind.wiki'>Proind</a>
