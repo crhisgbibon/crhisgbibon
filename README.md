@@ -22,7 +22,7 @@
 <a href='https://larda.xyz/login'>Larder</a> ,
 <a href='http://phplaravel-947565-3710684.cloudwaysapps.com/'>Music</a> ,
 <a href='http://phplaravel-947565-3734822.cloudwaysapps.com/'>Orbitals-2</a> ,
-<a href='http://phplaravel-947565-3466122.cloudwaysapps.com/'>Picks</a> , 
+<a href='https://crhisgbibon.com'>Picks</a> , 
 <a href='https://phplaravel-947565-3924595.cloudwaysapps.com/reader'>RSS Reader</a>
 
 ### PHP
