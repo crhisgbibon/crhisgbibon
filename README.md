@@ -18,6 +18,7 @@
 
 <a href='https://chronocol.xyz'>Billit</a> ,
 <a href='http://phplaravel-947565-3466294.cloudwaysapps.com/'>Britain</a> ,
+<a href='https://phplaravel-947565-4043956.cloudwaysapps.com/login'>Chronicle</a> ,
 <a href='https://fcards.xyz'>Flashcards</a> ,
 <a href='https://larda.xyz/login'>Larder</a> ,
 <a href='http://phplaravel-947565-3710684.cloudwaysapps.com/'>Music</a> ,
