@@ -1,4 +1,4 @@
-## <a href='https://calypsogrammar.com'>Home</a>
+<a href='https://calypsogrammar.com'>Home</a>
 
 ## About
 
